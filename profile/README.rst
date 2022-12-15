@@ -5,6 +5,6 @@ The **HARMONIC resonance** project is dedicated to developing musical and sound 
 
 
 
-**HARMONIC resonance** is an organization under`phi ARCHITECT`_ 
+**HARMONIC resonance** is an organization under `phi ARCHITECT`_ 
 
 .. _`phi ARCHITECT`: https://github.com/phiarchitect
